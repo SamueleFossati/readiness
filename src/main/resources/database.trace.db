@@ -1,0 +1,3 @@
+2024-07-10 14:51:21.170111+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ATHLETE" not found (this database is empty); SQL statement:
+select a1_0.id,a1_0.cognome,a1_0.nome,a1_0.team_id from athlete a1_0 [42104-224]
